@@ -28,7 +28,7 @@ main()
   .then(() => {
     console.log("connected to DB");
   })
-  .catch((err) => {
+  .catch((err) => {ter
     console.log(err);
   });
 
